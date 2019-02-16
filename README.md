@@ -31,10 +31,14 @@ print("Selesai")
 
 
 
+![flowlat1](https://user-images.githubusercontent.com/43899136/52892871-540f7f00-31c9-11e9-9445-e807e694f16e.jpg)
+
 
 
 ==>> Hasil screenshoot program :
 
+
+![sslatihan1](https://user-images.githubusercontent.com/43899136/52892867-51148e80-31c9-11e9-9a86-4d1946d2d1e3.jpg)
 
 
 
@@ -73,11 +77,14 @@ print ('Nilai terbesarya adalah :',max)
 
 
 
+![flowlat2](https://user-images.githubusercontent.com/43899136/52892872-5540ac00-31c9-11e9-855e-0cd6f52bd7af.jpg)
+
 
 
 ==>> Hasil screenshoot program :
 
 
+![sslatihan2](https://user-images.githubusercontent.com/43899136/52892868-5245bb80-31c9-11e9-8512-63ad48d9ff5e.jpg)
 
 
 
@@ -121,8 +128,11 @@ print('Total laba yang didapat adalah      :', sum)
 
 
 
+![flowprogram1](https://user-images.githubusercontent.com/43899136/52892873-55d94280-31c9-11e9-955b-3d9933dd5788.jpg)
 
 
 ==>> Hasil screenshoot program 1 :
 
 
+
+![ssprogram1](https://user-images.githubusercontent.com/43899136/52892870-5376e880-31c9-11e9-81dd-c30e2d65af08.jpg)
